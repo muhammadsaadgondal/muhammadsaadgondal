@@ -7,11 +7,11 @@ Student, Developer and AI Enthusiast!<br><br>🔭 Pursuing a Bachelor's Degree i
 ## 🌐 Socials:
 <p align="center">
   <a href="https://twitter.com/_saadjutt" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/hammadsaedi?style=social" alt="Twitter Follow" height="25">
+    <img src="https://img.shields.io/twitter/follow/saadjutt?style=social" alt="Twitter Follow" height="25">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-saad-8905a5255/" target="_blank">
-    <img src="https://img.shields.io/badge/-Hammad%20Saeedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hammadsaedi/" alt="LinkedIn" height="25">
+    <img src="https://img.shields.io/badge/-Muhammad%20Saad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-saad-8905a5255/" alt="LinkedIn" height="25">
   </a>
 </p>
 
