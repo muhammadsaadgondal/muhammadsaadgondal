@@ -2,6 +2,8 @@
 Student, Developer and AI Enthusiast!<br><br>🔭 Pursuing a Bachelor's Degree in Computer Science.<br>🌱  Infusing the realms of technology with the enchantment of GenAI.<br>👯 Excited to collaborate with fellow creative minds.
 
 
+<div style="text-align: center;">
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-saad-8905a5255) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_saadjutt) 
 
@@ -15,7 +17,8 @@ Student, Developer and AI Enthusiast!<br><br>🔭 Pursuing a Bachelor's Degree i
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=saadjutt10&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
