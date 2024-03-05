@@ -5,7 +5,15 @@ Student, Developer and AI Enthusiast!<br><br>🔭 Pursuing a Bachelor's Degree i
 <div style="text-align: center;">
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-saad-8905a5255) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_saadjutt) 
+<p align="center">
+  <a href="https://twitter.com/_saadjutt" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/hammadsaedi?style=social" alt="Twitter Follow" height="25">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-saad-8905a5255/" target="_blank">
+    <img src="https://img.shields.io/badge/-Hammad%20Saeedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hammadsaedi/" alt="LinkedIn" height="25">
+  </a>
+</p>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
